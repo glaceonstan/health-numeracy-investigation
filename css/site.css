@@ -14,3 +14,9 @@ p {
   color: white;
   text-align: center;
 }
+@font-face {
+    font-family: titillium-web;
+    src: "TitilliumWeb-Regular.ttf" format('truetype');
+    font-weight: regular;
+    font-style: normal;
+}
