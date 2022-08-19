@@ -16,7 +16,13 @@ p {
 }
 @font-face {
     font-family: titillium-web;
-    src: "TitilliumWeb-Regular.ttf" format('truetype');
+    src: "assets/TitilliumWeb-Regular.ttf" format('truetype');
     font-weight: regular;
+    font-style: normal;
+}
+@font-face {
+    font-family: titillium-web;
+    src: "assets/TitilliumWeb-SemiBold.ttf" format('truetype');
+    font-weight: semibold;
     font-style: normal;
 }
