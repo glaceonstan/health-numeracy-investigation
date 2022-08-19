@@ -1,13 +1,15 @@
 body {
-  background-color: lightblue;
+  background-color: #222438;
 }
 
 h1 {
+  font-family: titillium-web;
   color: white;
   text-align: center;
 }
 
 p {
-  font-family: verdana;
+  font-family: titillium-web;
   font-size: 20px;
+  color: white;
 }
